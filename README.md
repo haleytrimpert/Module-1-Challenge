@@ -6,7 +6,7 @@ This site has been refactored to make it more accessible. Non-semantic HTML elem
 
 ## Screenshots
 
-! [Picture 1](Assets/Website1.png)
+![Picture 1](Assets/Website1.png)
 
 ![Picture 2](Assets/Website2.png)
 
