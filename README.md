@@ -13,3 +13,4 @@ This site has been refactored to make it more accessible. Non-semantic HTML elem
 ![Picture 3](assets/Website3.png)
 
 ## Link
+https://haleytrimpert.github.io/Module-1-Challenge/
